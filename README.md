@@ -6,15 +6,7 @@ This public repository is a showcase for the project, not the full application s
 
 ## Watch the Overview
 
-Open [`portflodemo.html`](./portflodemo.html) in your browser to watch the PortFlo overview video.
-
-You can also view the hosted demo page here:
-
-[Open the PortFlo demo](https://stevensanche.github.io/portflo-quackhacks/portflodemo.html)
-
-If you are viewing this on GitHub, you can also open the video directly:
-
-[Watch `PortFloOverview.mp4`](./assets/PortFloOverview.mp4)
+[Watch the PortFlo demo](https://stevensanche.github.io/portflo-quackhacks/portflodemo.html)
 
 ## Hackathon Results
 
