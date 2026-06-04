@@ -14,7 +14,7 @@ You can also view the hosted demo page here:
 
 If you are viewing this on GitHub, you can also open the video directly:
 
-[Watch `PortFloOverview.mov`](./assets/PortFloOverview.mov)
+[Watch `PortFloOverview.mp4`](./assets/PortFloOverview.mp4)
 
 ## Hackathon Results
 
@@ -28,7 +28,7 @@ PortFlo was created for QuackHacks 2026 at the University of Oregon.
 - Arav Sarma
 - Steven Sanchez
 - Maximo Stowers-DeWolfe
-- Ulys Schauncey Drumrongthai
+- Ulys Chauncey Drumrongthai
 
 ## What We Built
 
