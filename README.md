@@ -17,8 +17,8 @@ PortFlo was created for QuackHacks 2026 at the University of Oregon.
 
 ## Team
 
-- Arav Sarma
 - Steven Sanchez
+- Arav Sarma
 - Maximo Stowers-DeWolfe
 - Ulys Chauncey Drumrongthai
 
