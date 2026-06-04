@@ -1,6 +1,6 @@
-# PortFlo Showcase
+# PortFlo QuackHacks Showcase
 
-PortFlo is a supply-chain intelligence dashboard built for the QuackHacks 2026 hackathon. It helps users monitor global risk across critical materials, trade routes, ports, suppliers, and chokepoints through an interactive dashboard and AI-generated briefings.
+PortFlo is a supply-chain intelligence dashboard built for QuackHacks 2026, a hackathon at the University of Oregon. It helps users monitor global risk across critical materials, trade routes, ports, suppliers, and chokepoints through an interactive dashboard and AI-generated briefings.
 
 This public repository is a showcase for the project, not the full application source code. Because we plan to continue developing PortFlo into a business-usable product, the production codebase is being kept private while we work toward deployment.
 
@@ -14,7 +14,7 @@ If you are viewing this on GitHub, you can also open the video directly:
 
 ## Hackathon Results
 
-PortFlo was created for QuackHacks 2026.
+PortFlo was created for QuackHacks 2026 at the University of Oregon.
 
 - Winner of the Base44 track
 - Placed Top 5 overall
@@ -40,5 +40,4 @@ Key areas covered by the prototype include:
 
 ## Current Status
 
-The hackathon prototype demonstrated the core PortFlo experience. We are continuing development privately with the goal of deploying a full product that can be used in real business workflows.
-
+The University of Oregon hackathon prototype demonstrated the core PortFlo experience. We are continuing development privately with the goal of deploying a full product that can be used in real business workflows.
